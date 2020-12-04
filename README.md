@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Kelegele is anamateur developer.
+- 🔭 Programming Language: Java, JavaScript, C# etc
+- 🧩 Tools: Linux, openEuler, openGuass etc
+- 😄 Pronouns: He/Him
+
+![](https://github-readme-stats.vercel.app/api?username=kelegele)
+
 <!--
 **kelegele/kelegele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
