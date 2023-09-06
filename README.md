@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Kelegele is anamateur developer.
+Kelegele is anamateur developer and Professional PM.
 - 🔭 Programming Language: Java, JavaScript, C# etc
-- 🧩 Tools: Linux, openEuler, openGuass etc
+- 🧩 Common tools: brain, fingers, eyes, ears and AI tools etc
 - 😄 Pronouns: He/Him
 
 ![](https://github-readme-stats.vercel.app/api?username=kelegele)
