@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Kelegele is anamateur developer and Professional PM.
-- 🔭 Programming Language: Java, JavaScript, C# etc
+- 🔭 Programming Language: Java, TS, etc
 - 🧩 Common tools: brain, fingers, eyes, ears and AI tools etc
 - 😄 Pronouns: He/Him
 
