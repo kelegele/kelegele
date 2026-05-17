@@ -10,17 +10,11 @@
 - AI × 产品经理：从需求、设计、验证到交付，重新组织产品工作方式。
 - Agent Skill：把经验固化成可复用的流程，让工具适应人，而不是人适应工具。
 - 端侧大模型：让模型真的在设备端跑起来，而不是只做云端 API 外壳。
-- 个人表达与创造：写博客、做项目，也偶尔怀念一台已经关服的 Minecraft 小服。
+- 个人表达与创造：写东西、做项目，也偶尔怀念一台已经关服的 Minecraft 小服。
 
 ## 最近的项目
 
 - [AI 离线翻译](https://github.com/kelegele/ai-offline-translator)：把 440MB 翻译模型跑到 macOS 与 Android，基于 Flutter、llama.cpp、JNI、ObjC++。
 - [agent-blog](https://github.com/kelegele/agent-blog)：一个用 Astro 6 重建的个人博客，也包含一个零依赖发布博客的 Agent Skill。
-
-## 找到我
-
-- Blog: [blog.kelegele.com](https://blog.kelegele.com)
-- GitHub: [@kelegele](https://github.com/kelegele)
-- Email: felicis1024@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=kelegele)
