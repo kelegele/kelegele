@@ -1,12 +1,12 @@
 # Kelegele
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=vibe+coding...;exploring+AI+agents...;turning+ideas+into+useful+things)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=vibe+coding...;exploring+AI+agents...;tracking+new+models+%26+tools...;recording+what+works...)
 
 Product manager, AI application explorer, and occasional developer.
 
 I started from computer science and moved toward product work, still following the same thread: turning ideas into useful things.
 
-Currently exploring AI agents, product workflows, vibe coding, on-device LLMs, and practical tools that adapt to people.
+These days I'm exploring AI agents, vibe coding, and on-device LLMs; tracking the fast-moving world of models, tools, and workflows; and recording what I try — what works, what breaks, and what's worth keeping.
 
 ![](https://github-readme-stats.vercel.app/api?username=kelegele)
 
