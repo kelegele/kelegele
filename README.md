@@ -12,6 +12,7 @@ AI moves fast and I move with it — trying new models and agent workflows as th
 
 ![](https://streak-stats.demolab.com?user=kelegele)
 
+[![Website](https://img.shields.io/badge/kelegele.com-blue?logo=googlechrome&logoColor=white)](https://kelegele.com)
 [![VibeUsage](https://vibecafe.ai/@flitnut/badge)](https://vibecafe.ai/@flitnut?ref=badge)
 
 <picture>
