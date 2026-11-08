@@ -7,3 +7,5 @@ I started from computer science and moved toward product work, still following t
 Currently exploring AI agents, product workflows, vibe coding, on-device LLMs, and practical tools that adapt to people.
 
 ![](https://github-readme-stats.vercel.app/api?username=kelegele)
+
+[![VibeUsage](https://vibecafe.ai/@flitnut/badge)](https://vibecafe.ai/@flitnut?ref=badge)
